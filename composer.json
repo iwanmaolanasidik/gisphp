@@ -1,0 +1,13 @@
+{
+    "name": "nshid/webgis-php",
+    "require": {
+        "joshcam/mysqli-database-class": "*"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "as-shiddiq",
+            "email": "n.shiddiq@gmail.com"
+        }
+    ]
+}
